@@ -1,0 +1,6 @@
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\bin\x86\Release\DemoSCFmwk.exe
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\bin\x86\Release\DemoSCFmwk.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\bin\x86\Release\GemCard.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\obj\x86\Release\DemoSCFmwk.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\obj\x86\Release\DemoSCFmwk.exe
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\DemoSCFmwk\obj\x86\Release\DemoSCFmwk.pdb

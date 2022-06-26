@@ -1,0 +1,6 @@
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\bin\Debug\GSMHelper.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\bin\Debug\GSMHelper.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\obj\Debug\GSMHelper.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\obj\Debug\GSMHelper.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\obj\Debug\GSMHelper.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\GSMHelper\obj\Debug\GSMHelper.csprojResolveAssemblyReference.cache

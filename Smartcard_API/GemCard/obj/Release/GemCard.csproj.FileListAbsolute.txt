@@ -1,0 +1,4 @@
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\bin\Release\GemCard.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\Release\GemCard.csproj.ResolveComReference.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\Release\GemCard.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\Release\GemCard.dll

@@ -1,0 +1,12 @@
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\ReadPhonebook.exe.config
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\ReadPhonebook.exe
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\ReadPhonebook.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\GemCard.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\GSMHelper.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\SmartCardPlayer.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\SmartCardPlayer.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\bin\x64\Release\GSMHelper.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\obj\x64\Release\ReadPhonebook.csprojResolveAssemblyReference.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\obj\x64\Release\ReadPhonebook.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\obj\x64\Release\ReadPhonebook.exe
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ReadPhonebook\obj\x64\Release\ReadPhonebook.pdb

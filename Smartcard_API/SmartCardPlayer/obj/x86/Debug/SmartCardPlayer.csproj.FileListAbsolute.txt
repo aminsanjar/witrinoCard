@@ -1,0 +1,8 @@
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\x86\Debug\SmartCardPlayer.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\x86\Debug\SmartCardPlayer.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\x86\Debug\GemCard.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\x86\Debug\GemCard.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\x86\Debug\SmartCardPlayer.csprojResolveAssemblyReference.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\x86\Debug\SmartCardPlayer.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\x86\Debug\SmartCardPlayer.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\x86\Debug\SmartCardPlayer.pdb

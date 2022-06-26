@@ -1,0 +1,16 @@
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\SmartCardPlayer.dll
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\SmartCardPlayer.pdb
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\GemCard.dll
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\GemCard.pdb
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.csprojResolveAssemblyReference.cache
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.csproj.CoreCompileInputs.cache
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.dll
+C:\Users\amin\Downloads\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\SmartCardPlayer.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\SmartCardPlayer.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\GemCard.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\bin\Debug\GemCard.pdb
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.csprojResolveAssemblyReference.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.csproj.CoreCompileInputs.cache
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\SmartCardPlayer\obj\Debug\SmartCardPlayer.pdb
