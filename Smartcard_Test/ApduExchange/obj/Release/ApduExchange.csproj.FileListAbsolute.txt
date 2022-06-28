@@ -1,8 +1,9 @@
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\ApduList.xml
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\ApduExchange.exe.manifest
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\ApduExchange.application
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\ApduExchange.exe
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\fa\ApduExchange.resources.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\witrino smart cards.exe.config
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\witrino smart cards.exe.manifest
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\witrino smart cards.application
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\witrino smart cards.exe
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\fa\witrino smart cards.resources.dll
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\GemCard.dll
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\Newtonsoft.Json.dll
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\SmartCardPlayer.dll
@@ -15,8 +16,7 @@ C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Sm
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\TestGemCard.MainForm.fa.resources
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\ApduExchange.csproj.GenerateResource.Cache
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\ApduExchange.csproj.CoreCompileInputs.cache
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\fa\ApduExchange.resources.dll
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\ApduExchange.exe.manifest
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\ApduExchange.application
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\ApduExchange.exe
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\bin\Release\ApduExchange.exe.config
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\fa\witrino smart cards.resources.dll
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\witrino smart cards.exe.manifest
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\witrino smart cards.application
+C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_Test\ApduExchange\obj\Release\witrino smart cards.exe

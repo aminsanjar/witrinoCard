@@ -14,7 +14,6 @@ C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Sm
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\bin\x64\Debug\normnfd.nlp
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\bin\x64\Debug\normnfkc.nlp
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\bin\x64\Debug\normnfkd.nlp
-C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\x64\Debug\GemCard.csprojResolveAssemblyReference.cache
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\x64\Debug\GemCard.csproj.ResolveComReference.cache
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\x64\Debug\GemCard.csproj.CoreCompileInputs.cache
 C:\Users\amin\OneDrive\Desktop\nfc\Smartcard_Framework_64\Smartcard_Framework\Smartcard_API\GemCard\obj\x64\Debug\GemCard.dll

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(login));
             this.label13 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
             this.password_input = new System.Windows.Forms.TextBox();
@@ -70,7 +71,6 @@
             this.password_input.PasswordChar = '*';
             this.password_input.Size = new System.Drawing.Size(265, 39);
             this.password_input.TabIndex = 33;
-            this.password_input.Text = "cityslicka";
             this.password_input.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // username_input
@@ -84,7 +84,6 @@
             this.username_input.Name = "username_input";
             this.username_input.Size = new System.Drawing.Size(265, 39);
             this.username_input.TabIndex = 29;
-            this.username_input.Text = "eve.holt@reqres.in";
             this.username_input.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // log_box
@@ -124,6 +123,7 @@
             this.Controls.Add(this.password_input);
             this.Controls.Add(this.login_btn);
             this.Font = new System.Drawing.Font("B Roya", 13.8F);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(5, 7, 5, 7);
             this.MaximizeBox = false;
             this.MinimizeBox = false;

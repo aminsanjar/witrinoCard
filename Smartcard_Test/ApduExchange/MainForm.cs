@@ -591,8 +591,10 @@ namespace TestGemCard
             this.token.ForeColor = System.Drawing.Color.White;
             this.token.Location = new System.Drawing.Point(122, 8);
             this.token.Margin = new System.Windows.Forms.Padding(10);
+            this.token.MaximumSize = new System.Drawing.Size(650, 0);
+            this.token.MinimumSize = new System.Drawing.Size(650, 0);
             this.token.Name = "token";
-            this.token.Size = new System.Drawing.Size(45, 25);
+            this.token.Size = new System.Drawing.Size(650, 25);
             this.token.TabIndex = 29;
             this.token.Text = "Null";
             this.token.TextAlign = System.Drawing.ContentAlignment.BottomRight;
@@ -1095,6 +1097,7 @@ namespace TestGemCard
         private void MainForm_Load(object sender, EventArgs e)
         {
             this.Width = 590;
+            this.Height = 550;
             if(token.Text=="Null")
             {
             //===========================================================
